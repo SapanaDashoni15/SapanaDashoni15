@@ -8,7 +8,7 @@
 
 - 🌱 Currently trying hands in **MERN stack**
   
--  👀 I’m interested in learning **new** **technologies** and tring out new and amazing stuffs 
+-  👀 I’m interested in learning **new** **technologies** and trying out new and amazing stuffs 
   
 - 📫 How to reach me **sapanadashoni@gmail.com**
 

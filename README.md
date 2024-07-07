@@ -1,4 +1,4 @@
-![Header](E:\StudyMaterial\journey\Creative Arts\github-header-image.png)
+![Header](./github-header-image.png)
 <h1 align="center">Hello Everyone! 👩‍💻 I'm Sapana Dashoni🌻</h1>
 <h3 align="center">A BTech student with CSE major.</h3>
 <img align="right" alt="coding-gif" src="https://media.giphy.com/media/YFFGUPTPTRqIhwepA4/giphy.gif" height="350" width="350">

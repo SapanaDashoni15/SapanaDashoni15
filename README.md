@@ -13,7 +13,7 @@
   
 - 📫 How to reach me **sapanadashoni@gmail.com**
 
-- ⚡ Fun fact **I love Sunflowers!**
+- ⚡ Fun fact **I love Sunflower!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

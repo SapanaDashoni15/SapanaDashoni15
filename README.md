@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SapanaDashoni15](https://github.com/SapanaDashoni15)
 
-- 🌱 Currently trying hands in **MERN stack**
+- 🌱 Currently trying hands on **MERN stack**
   
 -  👀 I’m interested in learning **new** **technologies** and trying out new and amazing stuffs 
   

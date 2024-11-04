@@ -7,7 +7,7 @@
 
 - 🌱 Currently trying hands on **MERN stack**
   
--  👀 I’m interested in learning **new** **technologies** and trying out new and amazing stuffs 
+-  👀 I’m interested - Problem solving, Web development
   
 - 📫 How to reach me **sapanadashoni@gmail.com**
 

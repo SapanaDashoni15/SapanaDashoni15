@@ -5,15 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapanadashoni15&label=Profile%20views&color=0e75b6&style=flat" alt="sapanadashoni15" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/SapanaDashoni15](https://github.com/SapanaDashoni15)
-
 - 🌱 Currently trying hands on **MERN stack**
   
 -  👀 I’m interested in learning **new** **technologies** and trying out new and amazing stuffs 
   
 - 📫 How to reach me **sapanadashoni@gmail.com**
-
-- ⚡ Fun fact **I love Sunflower!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

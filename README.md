@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapanadashoni15&label=Profile%20views&color=0e75b6&style=flat" alt="sapanadashoni15" /> </p>
 
-- Currently trying hands on APIs
+- Currently trying hands on Web scraping via Selenium
   
 - Technical Skills - Probem Solving, Web Development, OOP, Database management system, C++, JavaScript
   
